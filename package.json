@@ -2,7 +2,7 @@
   "name": "HOC-time",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://korneef.github.io/ra-42-hooks-use-effect",
+  "homepage": "https://korneef.github.io/ra-42-hooks-context-use-effect",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
