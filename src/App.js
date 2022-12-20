@@ -19,7 +19,7 @@ function App() {
   }, [])
 
   const handleChangeUser = (id) => {
-    setUsers({...users, activeUser: id})
+    setUsers({...users, activeUser: id});
   }
 
   return (
