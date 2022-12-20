@@ -1,0 +1,9 @@
+@import url('./components/index.css');
+
+body {
+  padding: 10px;
+}
+
+.App {
+  display: flex;
+}
