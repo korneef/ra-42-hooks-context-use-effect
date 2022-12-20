@@ -1,0 +1,26 @@
+.user-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.user-list__item {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #000000;
+  border-bottom: none;
+}
+
+.user-list__item:hover {
+  cursor: pointer;
+  background-color: #b09fff;
+}
+
+.user-list__item:last-child {
+  border-bottom: 1px solid #000000;
+}
+
+.user-list__item_active {
+  background-color: #191797;
+  color: #ffffff;
+}
